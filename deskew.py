@@ -25,7 +25,7 @@ def deskew_file(input_file_path, output_dir, angle: float = 31.8, dx: float = 0.
     Args:
     ----
         input_file_path (str): input tiff file path
-        output_dir (str): output dir , where the out put file will be written
+        output_dir (str): output dir , where the output file will be written
         angle: LSSM acqusition in degree, defaults = 31.8.
         dx: X pixel size, default = 0.104. (normally Y size is same as X)
         dz: Z step size, default = 0.4.
