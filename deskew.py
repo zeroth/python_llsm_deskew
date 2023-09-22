@@ -5,6 +5,9 @@ from pathlib import Path
 import os
 
 """
+Author: Abhishek Patil <abhishek@zeroth.me>
+"""
+"""
 please install the following
 ------------------------------------
 conda install -c conda-forge pycudadecon
